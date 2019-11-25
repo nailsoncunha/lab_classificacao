@@ -86,6 +86,6 @@ Como devo entregar?
 
 Link para o Colab. Além disso, pelo menos uma submissão deve ser feita no desafio que lançaremos no Kaggle.
 
-Link para competição no Kaggle:
+**Link para competição no Kaggle:**
 
 [Campeonatos Europeus](https://www.kaggle.com/c/ufcg-cdp-classificacao-20192)
